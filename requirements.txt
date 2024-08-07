@@ -1,0 +1,7 @@
+pandas==2.2.2
+python-dotenv
+redshift-connector
+seaborn
+scikit-learn
+statsmodels
+plotnine
